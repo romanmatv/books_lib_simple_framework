@@ -51,3 +51,6 @@ Simple PHP Framework for books library
 			JsonDB -> deleteAll ( "table" ) - Удаляет все данные таблицы
      
 Так же можно просто вызвать через JDB::base()->Имя-функции(); в любом месте данного проекта
+
+# English
+Sorry, I so lazy, to translate
